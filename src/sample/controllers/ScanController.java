@@ -105,7 +105,7 @@ public class ScanController {
     public static String executePost(String targetURL, String text) {
         HttpURLConnection connection = null;
 
-        String key = "trnsl.1.1.20161025T064753Z.5642f4005c41f9c5.abea688a7cfc18342faba9ae7f1fad0347c0b44a";
+        String key = "";
 
         try {
             //Create connection
